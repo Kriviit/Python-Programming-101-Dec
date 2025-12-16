@@ -1,21 +1,17 @@
-# c=(1,2,3)
-# d=(1,2,3)
+# LOOPS:-THE BLOCK WILL RUN UNTIL THE BASE CONDITION GETS TRUE
+# WHILE AND FOR
 
-# a=[1,2,3]
-# b=[1,2,3]
-# print(c is d)
-# print(a is b)
+# print only even number
+# best case
 
-# l=[12,5,3,4,3]
-# l.append()
-# l.count()
-# l.index()
 
-#typing
-def add(a:int,b:int):
-    """
-    this is  a add function which takes two params
-    """
-    return a+b+5
+i=2
+j=0
+while(j<=10):# base condition
+    print(i) # 2 4 6
+    i+=2 # updation 4 6 8
 
-print(add(2,2))
+# NOTE
+# 1 base condtion
+# 2 updation
+# 3 rel between updation and base condition
