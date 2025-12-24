@@ -22,8 +22,8 @@
 
 i=1
 while(True):
-    print(i)
+    print(i)#10
     if i==10:
         break
     i+=1
-# o/p 1 to 9 
+# o/p 1 to 10

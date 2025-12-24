@@ -15,3 +15,11 @@
 
 for i in range(1,100):
     print(i)
+
+
+# print n natural numbers
+# print n whole numbers
+# print n even numbers
+# print n odd numbers
+# print sum of n natural number
+# print avg of n natural number
