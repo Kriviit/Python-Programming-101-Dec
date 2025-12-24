@@ -50,10 +50,7 @@ def print_n_natural_number(n):
 # check whethe the given number is even or not => 
 
 def is_even(num):
-    if num%2==0:
-        return True
-    else:
-        return False
+    return num%2==0
 print(is_even(11))
 
 # get_max_two_number(10,20)
