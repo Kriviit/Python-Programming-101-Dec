@@ -1,3 +1,4 @@
+#keyword arguments = in these we call function with var name and value so it reduces the logical error
 def student(name,age,rollno,branch):# developed mahender
     print("my name is ",name)
     print("my age is ",age)

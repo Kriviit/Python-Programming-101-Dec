@@ -1,0 +1,14 @@
+a=(1,2,True,"4",5)
+print(a)
+print(a)
+print(a)
+print(a)
+
+
+a=(1,2,3)
+b=(4,5,6)
+c=a+b
+a[0]=10
+print(a)
+print(b)
+print(c)

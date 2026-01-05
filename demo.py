@@ -1,2 +1,6 @@
-num=input("enter u r number:-")
-print("the number is",num)
+def student(a,b):
+    print(a)
+    print(b)
+    student(10,20)
+    
+student(10,20)
