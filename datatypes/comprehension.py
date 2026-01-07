@@ -1,0 +1,6 @@
+# even=[] #1 to 100
+# for i in range(1,101):
+#     if i%2!=0:
+#         even.append(i)
+even=tuple(i for i in range(1,101) if i%2!=0)
+print(even)

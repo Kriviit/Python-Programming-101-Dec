@@ -1,0 +1,11 @@
+student={"name":"python","age":1991}
+# print(student['branch'])
+print(student.get('branch',100))
+print(student.items())
+print(student.keys())
+print(student.values())
+student.pop('name')
+print(student)
+student.update(name="Java")
+student.update(age="1999")
+print(student)
